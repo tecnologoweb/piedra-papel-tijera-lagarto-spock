@@ -10,7 +10,7 @@ function ejecutar (){
 	var Lagarto = 3;
 	var spock = 4;
 	var opcionusuario;
-	var opcionmaquina = aleatorio(0,5);
+	var opcionmaquina = aleatorio(0,4);
 
 	opcionusuario = prompt ("¿que Opción eliges? \nPiedra: 0 \n Papel: 1 \n Tijera: 2 \n Lagarto: 3 \n Spock: 4", 0);
 
